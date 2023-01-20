@@ -6,6 +6,7 @@
  - 煙囪小鎮的普佩 (えんとつ町のプペル, 2020)
  - 媽的多重宇宙 (Everything Everywhere All at Once, 2022)
  - 我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)
+ - 小丑 (Joker, 2019)
  - 喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)
  - 咒術迴戰 0 (Jujutsu Kaisen 0, 2021)
  - 酷愛電影的龐波小姐 (映画大好きポンポさん, 2021)
@@ -30,6 +31,7 @@
 <!-- AUTO-PREVIEW:START (PRINTLIST:path=./movie_info/&listType=watched) -->
  - 一個巨星的誕生 (A Star Is Born, 2018)
  - 在車上 (Drive My Car, 2021)
+ - 小丑 (Joker, 2019)
  - 咒術迴戰 0 (Jujutsu Kaisen 0, 2021)
  - 酷愛電影的龐波小姐 (映画大好きポンポさん, 2021)
  - 龍與雀斑公主 (竜とそばかすの姫, 2021)

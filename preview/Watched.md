@@ -1,12 +1,20 @@
 # 已完食清單
 
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType=watched) -->
+- [一個巨星的誕生 (A Star Is Born, 2018)](#一個巨星的誕生-a-star-is-born-2018)
 - [在車上 (Drive My Car, 2021)](#在車上-drive-my-car-2021)
 - [咒術迴戰 0 (Jujutsu Kaisen 0, 2021)](#咒術迴戰-0-jujutsu-kaisen-0-2021)
 - [酷愛電影的龐波小姐 (映画大好きポンポさん, 2021)](#酷愛電影的龐波小姐-映画大好きポンポさん-2021)
 - [龍與雀斑公主 (竜とそばかすの姫, 2021)](#龍與雀斑公主-竜とそばかすの姫-2021)
 - [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](#劇場版擅長捉弄人的高木同學-劇場版からかい上手の高木さん-2022)
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
+
+---
+## [一個巨星的誕生 (A Star Is Born, 2018)](https://www.imdb.com/title/tt1517451/)
+### 片長：2 小時 16 分鐘
+有豐富演唱與表演經驗的音樂老手傑克森，他深受酒癮之苦，一晚在一場演唱會後的酒吧，發掘了擁有極佳音樂天賦的藝術家艾利，與她墜入情網，並鼓勵她不要放棄歌手的夢想。然而，當傑克森給予了艾利機會站在鎂光燈下，她的歌聲逐漸受到矚目與喜愛，艾利的崛起卻讓傑克森更陷入低潮，傑克森與艾利的戀情逐漸瀕臨破局，私生活也變成了一場惡夢。
+
+[<img src='../cover_img/a_star_is_born.jpg' height='570px' width='400px' />](https://youtu.be/luru4Zf57TE)
 
 ---
 ## [在車上 (Drive My Car, 2021)](https://www.imdb.com/title/tt14039582/)

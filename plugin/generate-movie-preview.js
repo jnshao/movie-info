@@ -17,6 +17,10 @@ const generateMovieInfo = (json) => {
 const generatePreview = (...sections) => {
     return sections.join('\n---\n');
 };
+const getMovieInfoFiles = async (dirPath) => {
+    const files = await fs.promises.readdir(dirPath);
+    return files.filter(file => path.extname(file) === '.json');
+};
 
 const config = {
     matchWord: 'AUTO-PREVIEW',
@@ -24,19 +28,34 @@ const config = {
         /**
          * <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType={watched/candidate/undefined}) -->
          */
+        async PRINTLIST(content, options) {
+            try {
+                let movieList = '';
+                const movieInfoFiles = await getMovieInfoFiles(options.path);
+                movieInfoFiles.forEach((file) => {
+                    const movieInfo = JSON.parse(fs.readFileSync(`${options.path}/${file}`));
+
+                    if ((options.listType === 'watched' && !movieInfo.watched) ||
+                            (options.listType === 'candidate' && movieInfo.watched)) {
+                        return;
+                    }
+                    movieList += ` - ${movieInfo.title}\n`;
+                })
+                return movieList;
+            } catch (e) {
+                console.log('Error: ', e);
+            }
+        },
         async RENDERPREVIEW(content, options) {
             try {
                 let previewMovieAnchor = '';
                 let previewMovieContent = '';
-                let movieInfoFiles = await fs.promises.readdir(options.path);
-
-                movieInfoFiles = movieInfoFiles.filter(file => path.extname(file) === '.json');
+                const movieInfoFiles = await getMovieInfoFiles(options.path);
                 movieInfoFiles.forEach((file) => {
                     const movieInfo = JSON.parse(fs.readFileSync(`${options.path}/${file}`));
 
-                    if (options.listType === 'watched' && !movieInfo.watched) {
-                        return;
-                    } else if (options.listType === 'candidate' && movieInfo.watched) {
+                    if ((options.listType === 'watched' && !movieInfo.watched) ||
+                            (options.listType === 'candidate' && movieInfo.watched)) {
                         return;
                     }
                     previewMovieAnchor += generateMovieAnchor(movieInfo.title);
@@ -52,6 +71,7 @@ const config = {
 
 const getPreviewPath = (file) => path.join(__dirname, '..', `preview/${file}`);
 const previewFiles = [
+    path.join(__dirname, '..', `README.md`),
     getPreviewPath('MovieList.md'),
     getPreviewPath('Watched.md'),
     getPreviewPath('Candidate.md'),

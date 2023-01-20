@@ -15,27 +15,30 @@ const generateMovieInfo = (json) => {
             `\n---\n`;
 };
 const generatePreview = (...sections) => {
-    let result = '';
-    sections.forEach(section => {
-        result += section + '\n---\n';
-    })
-    return result;
+    return sections.join('\n---\n');
 };
 
 const config = {
     matchWord: 'AUTO-PREVIEW',
     transforms: {
         /**
-         * <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/) -->
+         * <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType={watched/candidate/undefined}) -->
          */
         async RENDERPREVIEW(content, options) {
             try {
                 let previewMovieAnchor = '';
                 let previewMovieContent = '';
-                let files = await fs.promises.readdir(options.path);
-                files = files.filter(file => path.extname(file) === '.json');
-                files.forEach((file) => {
+                let movieInfoFiles = await fs.promises.readdir(options.path);
+
+                movieInfoFiles = movieInfoFiles.filter(file => path.extname(file) === '.json');
+                movieInfoFiles.forEach((file) => {
                     const movieInfo = JSON.parse(fs.readFileSync(`${options.path}/${file}`));
+
+                    if (options.listType === 'watched' && !movieInfo.watched) {
+                        return;
+                    } else if (options.listType === 'candidate' && movieInfo.watched) {
+                        return;
+                    }
                     previewMovieAnchor += generateMovieAnchor(movieInfo.title);
                     previewMovieContent += generateMovieInfo(movieInfo);
                 })
@@ -50,6 +53,8 @@ const config = {
 const getPreviewPath = (file) => path.join(__dirname, '..', `preview/${file}`);
 const previewFiles = [
     getPreviewPath('MovieList.md'),
+    getPreviewPath('Watched.md'),
+    getPreviewPath('Candidate.md'),
 ];
 markdownMagic(previewFiles, config, () => {
     console.log('Finished');

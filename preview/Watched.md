@@ -3,6 +3,7 @@
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType=watched) -->
 - [一個巨星的誕生 (A Star Is Born, 2018)](#一個巨星的誕生-a-star-is-born-2018)
 - [在車上 (Drive My Car, 2021)](#在車上-drive-my-car-2021)
+- [傑伊比姆 (Jai Bhim, 2021)](#傑伊比姆-jai-bhim-2021)
 - [小丑 (Joker, 2019)](#小丑-joker-2019)
 - [咒術迴戰 0 (Jujutsu Kaisen 0, 2021)](#咒術迴戰-0-jujutsu-kaisen-0-2021)
 - [波斯語課 (Persian Lessons, 2020)](#波斯語課-persian-lessons-2020)
@@ -24,6 +25,13 @@
 在意外喪妻兩年後，知名的舞台劇演員及導演家福裕介被邀請為廣島戲劇節製作舞台劇。在那裡，因工作關係需要聘請一位汽車代駕，家福遇見了沈默寡言的美沙紀，兩人在一趟趟安靜的車程中，漸漸瞭解了彼此的過往，也解開了自己難解的心結，更發現了心愛妻子生前的秘密......
 
 [<img src='../cover_img/drive_my_car.jpg' height='570px' width='400px' />](https://youtu.be/Jq0k4HZBFRE)
+
+---
+## [傑伊比姆 (Jai Bhim, 2021)](https://www.imdb.com/title/tt15097216/)
+### 片長：2 小時 44 分鐘
+20世紀 90年代，印度地方貴族家中失竊，捕蛇人拉賈坎努含冤入獄、神秘死亡。他的妻子向人權律師錢德魯求助。錢德魯接下此案，孤身對抗種姓歧視與黑金政治，歷經坎坷，終於在調查過程中發現了驚人的真相，幫助受害者伸張了正義。
+
+[<img src='../cover_img/jai_bhim.jpg' height='570px' width='400px' />](https://youtu.be/nnXpbTFrqXA)
 
 ---
 ## [小丑 (Joker, 2019)](https://www.imdb.com/title/tt7286456/)

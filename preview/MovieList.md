@@ -6,6 +6,7 @@
 - [煙囪小鎮的普佩 (えんとつ町のプペル, 2020)](#煙囪小鎮的普佩-えんとつ町のプペル-2020)
 - [媽的多重宇宙 (Everything Everywhere All at Once, 2022)](#媽的多重宇宙-everything-everywhere-all-at-once-2022)
 - [我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)](#我想吃掉你的胰臟-君の膵臓をたべたい-動畫電影版-2018)
+- [傑伊比姆 (Jai Bhim, 2021)](#傑伊比姆-jai-bhim-2021)
 - [小丑 (Joker, 2019)](#小丑-joker-2019)
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [咒術迴戰 0 (Jujutsu Kaisen 0, 2021)](#咒術迴戰-0-jujutsu-kaisen-0-2021)
@@ -51,6 +52,13 @@
 「我」偶然在醫院裡發現了一本「共病文庫」，原來這是同班同學 山內櫻良與疾病的奮鬥日記，內容寫著因胰臟病將不久於人世以及她的願望清單，「沒有名字的我」與「沒有未來她」就此相遇了...
 
 [<img src='../cover_img/i_want_to_eat_your_pancreas.jpg' height='570px' width='400px' />](https://youtu.be/mQs6yINCT1Q)
+
+---
+## [傑伊比姆 (Jai Bhim, 2021)](https://www.imdb.com/title/tt15097216/)
+### 片長：2 小時 44 分鐘
+20世紀 90年代，印度地方貴族家中失竊，捕蛇人拉賈坎努含冤入獄、神秘死亡。他的妻子向人權律師錢德魯求助。錢德魯接下此案，孤身對抗種姓歧視與黑金政治，歷經坎坷，終於在調查過程中發現了驚人的真相，幫助受害者伸張了正義。
+
+[<img src='../cover_img/jai_bhim.jpg' height='570px' width='400px' />](https://youtu.be/nnXpbTFrqXA)
 
 ---
 ## [小丑 (Joker, 2019)](https://www.imdb.com/title/tt7286456/)

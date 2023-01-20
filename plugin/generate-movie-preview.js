@@ -4,7 +4,7 @@ const markdownMagic = require('markdown-magic');
 const coverImagePath = '../cover_img';
 
 const generateMovieAnchor = (title) => {
-    const anchor = title.split(' ').join('-').toLowerCase().replace(/\(|\)|,/g,'');
+    const anchor = title.split(' ').join('-').toLowerCase().replace(/:|：|\(|\)|,/g,'');
     return `- [${title}](#${anchor})\n`;
 };
 const generateMovieInfo = (json) => {

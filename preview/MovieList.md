@@ -17,6 +17,7 @@
 - [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](#劇場版擅長捉弄人的高木同學-劇場版からかい上手の高木さん-2022)
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
+- [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](#捍衛戰士獨行俠-top-gun-maverick-2022)
 
 ---
 ## [一個巨星的誕生 (A Star Is Born, 2018)](https://www.imdb.com/title/tt1517451/)
@@ -129,6 +130,13 @@
 【大娛樂家】改編自傳奇馬戲團始祖P.T.巴納姆(休傑克曼 飾)，描述他如何從窮困潦倒的無名小卒，搖身一變成為一個能夠將歡樂、感動、勇氣與淚水，這些情感原素全部融入至他的表演中，將希望散播至全世界的玩夢大師
 
 [<img src='../cover_img/the_greatest_showman.jpg' height='570px' width='400px' />](https://youtu.be/sR6-3_5CtTQ)
+
+---
+## [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](https://www.imdb.com/title/tt1745960/)
+### 片長：2 小時 10 分鐘
+故事敘述服役超過30年，身為海軍頂尖飛行員的「獨行俠」彼得米契爾上校仍舊堅守他的崗位，以試飛員的身份不斷突破飛行極限，也放棄任何足以終止飛行生涯的晉升。他在訓練一組 TOP GUN 菁英小組去執行一個前所未聞的特殊任務時，遇見了已故搭檔「呆頭鵝」尼克布雷德蕭中尉的兒子 -「公雞」布雷德利布雷德蕭中尉。在面對不確定的未來和來自過去夢靨的影響下，「獨行俠」在這個要求飛行員奉獻出最終代價的行動裡，被迫面對自己最深層的心魔。
+
+[<img src='../cover_img/top_gun_maverick.jpg' height='570px' width='400px' />](https://youtu.be/IbsLhjGg6mg)
 
 ---
 

@@ -17,6 +17,7 @@
  - 劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)
  - 鹿王 (The Deer King, 2021)
  - 大娛樂家 (The Greatest Showman, 2017)
+ - 捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)
 
 <!-- AUTO-PREVIEW:END *-->
 ## [待看清單](preview/Candidate.md)
@@ -41,6 +42,7 @@
  - 龍與雀斑公主 (竜とそばかすの姫, 2021)
  - 劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)
  - 鹿王 (The Deer King, 2021)
+ - 捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)
 
 <!-- AUTO-PREVIEW:END *-->
 # 更新清單

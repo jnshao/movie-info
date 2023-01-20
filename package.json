@@ -1,0 +1,17 @@
+{
+  "name": "movie-info",
+  "version": "1.0.0",
+  "description": "Generate movie preview",
+  "main": "index.js",
+  "scripts": {
+    "preview": "node plugin/generate-movie-preview.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-magic": "^2.6.1"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  }
+}

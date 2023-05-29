@@ -14,6 +14,7 @@
  - 酷愛電影的龐波小姐 (映画大好きポンポさん, 2021)
  - 普羅米亞 (Promare, 2019)
  - 龍與雀斑公主 (竜とそばかすの姫, 2021)
+ - 刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)
  - 劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)
  - 鹿王 (The Deer King, 2021)
  - 大娛樂家 (The Greatest Showman, 2017)
@@ -27,6 +28,7 @@
  - 我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)
  - 喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)
  - 普羅米亞 (Promare, 2019)
+ - 刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)
  - 大娛樂家 (The Greatest Showman, 2017)
 
 <!-- AUTO-PREVIEW:END *-->

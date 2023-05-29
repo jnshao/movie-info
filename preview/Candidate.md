@@ -6,6 +6,7 @@
 - [我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)](#我想吃掉你的胰臟-君の膵臓をたべたい-動畫電影版-2018)
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
+- [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)](#刀劍神域劇場版--progressive--陰沉薄暮的詼諧曲-sword-art-online-the-movie--progressive--scherzo-of-deep-night-2022)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
 
 ---
@@ -42,6 +43,13 @@
 因突變而產生能操控火焰的人種「燃燒者」，讓半個世界被大火燒成焦土，陷入前所未見的慘況，在那之後過了30年，當中一群激進份子「瘋狂燃燒者」再次對世界發動攻擊，為了鎮壓「瘋狂燃燒者」引發的火災，普羅米波利斯自治共和國司政官古雷，組織了針對「燃燒者」而設置的高機動救命消防隊「烈焰救火隊」。效命於「烈焰救火隊」，並擁有滅火之魂的消防隊新人加洛，碰上了被通緝中的縱火恐怖份子、也是「瘋狂燃燒者」首領里歐，兩人發生了激烈的衝突，當兩個熾熱靈魂彼此衝撞，這場對決將迎向什麼結局？
 
 [<img src='../cover_img/promare.jpg' height='570px' width='400px' />](https://youtu.be/jIlaDVkvQc0)
+
+---
+## [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)](https://www.imdb.com/title/tt15830702/)
+### 片長：1 小時 41 分鐘
+本部劇場版是描述在TV版系列中所沒出現過的浮游城《艾恩葛朗特》第5層的故事。在已公開的預告片中，出現了放著攻略遊戲不管只沉溺於PK（獵殺玩家）的集團、對著亞絲娜拔刀相向的不明人士、以及披著黑色風衣的男人緊逼而來！另外，似乎透漏兩大公會正發生著什麼問題的「想要通關這個遊戲，DKB跟ALS都是必需的」的這句話又有著什麼含意？桐人和亞絲娜在前作就參戰的米特、亞魯戈以及艾基爾的協力之下挺身對抗Boss，然而出現在桐人面前的卻是與封測時不同的強大怪物──。究竟桐人與亞絲娜等人能否成功通關第五層呢！？
+
+[<img src='../cover_img/sao_progress_kuraki_yuuyami_no_scherzo.jpg' height='570px' width='400px' />](https://youtu.be/GPBrslQRF1g)
 
 ---
 ## [大娛樂家 (The Greatest Showman, 2017)](https://www.imdb.com/title/tt1485796/)

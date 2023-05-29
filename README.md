@@ -18,6 +18,7 @@
  - 劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)
  - 鹿王 (The Deer King, 2021)
  - 大娛樂家 (The Greatest Showman, 2017)
+ - 超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)
  - 捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)
 
 <!-- AUTO-PREVIEW:END *-->
@@ -30,6 +31,7 @@
  - 普羅米亞 (Promare, 2019)
  - 刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)
  - 大娛樂家 (The Greatest Showman, 2017)
+ - 超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)
 
 <!-- AUTO-PREVIEW:END *-->
 ## [已完食清單](preview/Watched.md)

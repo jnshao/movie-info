@@ -18,6 +18,7 @@
 - [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](#劇場版擅長捉弄人的高木同學-劇場版からかい上手の高木さん-2022)
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
+- [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](#超級瑪利歐兄弟電影版-the-super-mario-bros.-movie-2023)
 - [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](#捍衛戰士獨行俠-top-gun-maverick-2022)
 
 ---
@@ -138,6 +139,13 @@
 【大娛樂家】改編自傳奇馬戲團始祖P.T.巴納姆(休傑克曼 飾)，描述他如何從窮困潦倒的無名小卒，搖身一變成為一個能夠將歡樂、感動、勇氣與淚水，這些情感原素全部融入至他的表演中，將希望散播至全世界的玩夢大師
 
 [<img src='../cover_img/the_greatest_showman.jpg' height='570px' width='400px' />](https://youtu.be/sR6-3_5CtTQ)
+
+---
+## [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](https://www.imdb.com/title/tt6718170/)
+### 片長：1 小時 32 分鐘
+任天堂暨照明娛樂共同出品一部改編自最受歡迎電玩遊戲《超級瑪利歐兄弟》的全新動畫片《超級瑪利歐兄弟電影版》。
+
+[<img src='../cover_img/the_super_mario_bros.jpg' height='570px' width='400px' />](https://youtu.be/iE-BqYVfA4I)
 
 ---
 ## [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](https://www.imdb.com/title/tt1745960/)

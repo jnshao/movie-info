@@ -9,6 +9,7 @@
 - [波斯語課 (Persian Lessons, 2020)](#波斯語課-persian-lessons-2020)
 - [酷愛電影的龐波小姐 (映画大好きポンポさん, 2021)](#酷愛電影的龐波小姐-映画大好きポンポさん-2021)
 - [龍與雀斑公主 (竜とそばかすの姫, 2021)](#龍與雀斑公主-竜とそばかすの姫-2021)
+- [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)](#刀劍神域劇場版--progressive--陰沉薄暮的詼諧曲-sword-art-online-the-movie--progressive--scherzo-of-deep-night-2022)
 - [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](#劇場版擅長捉弄人的高木同學-劇場版からかい上手の高木さん-2022)
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
 - [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](#捍衛戰士獨行俠-top-gun-maverick-2022)
@@ -68,6 +69,13 @@
 自幼因意外失去母親的17歲女高中生小鈴，與父親兩人同住在人口不斷外移的高知小農村。最喜歡和母親一起唱歌的小鈴，母親死後便再也無法開口唱歌，在現實世界中甚至將自己的內心封閉起來。某日，小鈴化名「貝兒」來到全球超過50億使用者的虛擬世界「U」，貝兒在虛擬世界能自然開口唱歌，並發表自己創作的歌曲，更讓她成為世界關注的焦點，此時一個有著龍姿態的神祕存在突然出現在小鈴面前...
 
 [<img src='../cover_img/ryuu_to_sobakasu_no_hime.jpg' height='570px' width='400px' />](https://youtu.be/sRQdv7ca-tw)
+
+---
+## [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)](https://www.imdb.com/title/tt15830702/)
+### 片長：1 小時 41 分鐘
+本部劇場版是描述在TV版系列中所沒出現過的浮游城《艾恩葛朗特》第5層的故事。在已公開的預告片中，出現了放著攻略遊戲不管只沉溺於PK（獵殺玩家）的集團、對著亞絲娜拔刀相向的不明人士、以及披著黑色風衣的男人緊逼而來！另外，似乎透漏兩大公會正發生著什麼問題的「想要通關這個遊戲，DKB跟ALS都是必需的」的這句話又有著什麼含意？桐人和亞絲娜在前作就參戰的米特、亞魯戈以及艾基爾的協力之下挺身對抗Boss，然而出現在桐人面前的卻是與封測時不同的強大怪物──。究竟桐人與亞絲娜等人能否成功通關第五層呢！？
+
+[<img src='../cover_img/sao_progress_kuraki_yuuyami_no_scherzo.jpg' height='570px' width='400px' />](https://youtu.be/GPBrslQRF1g)
 
 ---
 ## [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](https://www.imdb.com/title/tt15313532/)

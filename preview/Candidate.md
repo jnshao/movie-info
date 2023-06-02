@@ -3,7 +3,6 @@
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType=candidate) -->
 - [我想有個家 (Capharnaüm, 2018)](#我想有個家-capharnaüm-2018)
 - [煙囪小鎮的普佩 (えんとつ町のプペル, 2020)](#煙囪小鎮的普佩-えんとつ町のプペル-2020)
-- [媽的多重宇宙 (Everything Everywhere All at Once, 2022)](#媽的多重宇宙-everything-everywhere-all-at-once-2022)
 - [我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)](#我想吃掉你的胰臟-君の膵臓をたべたい-動畫電影版-2018)
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
@@ -23,13 +22,6 @@
 一段深信「星星」存在的少年．魯必奇與垃圾人．普佩，為了守護希望與夢想的冒險故事。父親總是告訴魯必奇，在與世隔絕、煙霧迷漫的煙囪小鎮上空另一側有著「星星的存在」，為了找出「真相」，魯必奇與普佩展開一場大冒險。
 
 [<img src='../cover_img/entotsu_machi_no_poupelle.jpg' height='570px' width='400px' />](https://youtu.be/q3oLohfCLZ8)
-
----
-## [媽的多重宇宙 (Everything Everywhere All at Once, 2022)](https://www.imdb.com/title/tt6710474)
-### 片長：2 小時 19 分鐘
-5歲的美國華裔移民秀蓮家庭事業兩崩潰。在老爸爸生日大壽這天，除了要阻止女兒暴走出櫃、替無用丈夫擦屁股，還得去稅務局向古板大嬸解釋不太妙的稅務問題。甫踏進大樓電梯，軟爛丈夫竟搖身一變演起駭客任務，聲稱自己是另一個宇宙的版本，而艾芙琳也是千萬宇宙裡的其中一個。還來不及理解，邪惡勢力已在多元宇宙中蔓延，世界即將毀滅，只有在這它媽的宇宙裡、一無是處的艾芙琳才能拯救世界…
-
-[<img src='../cover_img/everything_everywhere_all_at_once.jpg' height='570px' width='400px' />](https://youtu.be/kS7aoU_Ocxs)
 
 ---
 ## [我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)](https://www.imdb.com/title/tt7236034/)

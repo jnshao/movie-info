@@ -27,7 +27,6 @@
 <!-- AUTO-PREVIEW:START (PRINTLIST:path=./movie_info/&listType=candidate) -->
  - 我想有個家 (Capharnaüm, 2018)
  - 煙囪小鎮的普佩 (えんとつ町のプペル, 2020)
- - 媽的多重宇宙 (Everything Everywhere All at Once, 2022)
  - 我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)
  - 喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)
  - 普羅米亞 (Promare, 2019)
@@ -39,6 +38,7 @@
 <!-- AUTO-PREVIEW:START (PRINTLIST:path=./movie_info/&listType=watched) -->
  - 一個巨星的誕生 (A Star Is Born, 2018)
  - 在車上 (Drive My Car, 2021)
+ - 媽的多重宇宙 (Everything Everywhere All at Once, 2022)
  - 傑伊比姆 (Jai Bhim, 2021)
  - 小丑 (Joker, 2019)
  - 咒術迴戰 0 (Jujutsu Kaisen 0, 2021)

@@ -3,6 +3,7 @@
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType=watched) -->
 - [一個巨星的誕生 (A Star Is Born, 2018)](#一個巨星的誕生-a-star-is-born-2018)
 - [在車上 (Drive My Car, 2021)](#在車上-drive-my-car-2021)
+- [媽的多重宇宙 (Everything Everywhere All at Once, 2022)](#媽的多重宇宙-everything-everywhere-all-at-once-2022)
 - [傑伊比姆 (Jai Bhim, 2021)](#傑伊比姆-jai-bhim-2021)
 - [小丑 (Joker, 2019)](#小丑-joker-2019)
 - [咒術迴戰 0 (Jujutsu Kaisen 0, 2021)](#咒術迴戰-0-jujutsu-kaisen-0-2021)
@@ -27,6 +28,13 @@
 在意外喪妻兩年後，知名的舞台劇演員及導演家福裕介被邀請為廣島戲劇節製作舞台劇。在那裡，因工作關係需要聘請一位汽車代駕，家福遇見了沈默寡言的美沙紀，兩人在一趟趟安靜的車程中，漸漸瞭解了彼此的過往，也解開了自己難解的心結，更發現了心愛妻子生前的秘密......
 
 [<img src='../cover_img/drive_my_car.jpg' height='570px' width='400px' />](https://youtu.be/Jq0k4HZBFRE)
+
+---
+## [媽的多重宇宙 (Everything Everywhere All at Once, 2022)](https://www.imdb.com/title/tt6710474)
+### 片長：2 小時 19 分鐘
+5歲的美國華裔移民秀蓮家庭事業兩崩潰。在老爸爸生日大壽這天，除了要阻止女兒暴走出櫃、替無用丈夫擦屁股，還得去稅務局向古板大嬸解釋不太妙的稅務問題。甫踏進大樓電梯，軟爛丈夫竟搖身一變演起駭客任務，聲稱自己是另一個宇宙的版本，而艾芙琳也是千萬宇宙裡的其中一個。還來不及理解，邪惡勢力已在多元宇宙中蔓延，世界即將毀滅，只有在這它媽的宇宙裡、一無是處的艾芙琳才能拯救世界…
+
+[<img src='../cover_img/everything_everywhere_all_at_once.jpg' height='570px' width='400px' />](https://youtu.be/kS7aoU_Ocxs)
 
 ---
 ## [傑伊比姆 (Jai Bhim, 2021)](https://www.imdb.com/title/tt15097216/)

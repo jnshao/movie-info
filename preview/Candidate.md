@@ -1,6 +1,7 @@
 # 待看清單
 
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType=candidate) -->
+- [我想有個家 (Capharnaüm, 2018)](#我想有個家-capharnaüm-2018)
 - [煙囪小鎮的普佩 (えんとつ町のプペル, 2020)](#煙囪小鎮的普佩-えんとつ町のプペル-2020)
 - [媽的多重宇宙 (Everything Everywhere All at Once, 2022)](#媽的多重宇宙-everything-everywhere-all-at-once-2022)
 - [我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)](#我想吃掉你的胰臟-君の膵臓をたべたい-動畫電影版-2018)
@@ -8,6 +9,13 @@
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
 - [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](#超級瑪利歐兄弟電影版-the-super-mario-bros.-movie-2023)
+
+---
+## [我想有個家 (Capharnaüm, 2018)](https://www.imdb.com/title/tt8267604/)
+### 片長：2 小時 06 分鐘
+12歲男孩贊恩出生在破敗的貧民窟，父母只生不養，更無力賺錢養家，導致孩子淪為沒有身分證明的黑戶，生活處境雪上加霜。懂事的贊恩幫忙父母照料家中7個小孩，更每天一早上街頭叫賣果汁賺錢，一肩扛起家中經濟重擔。不料父母卻因缺錢走投無路，竟將年僅11歲的妹妹「賣」給商人當作老婆。無力保護妹妹的贊恩難過地離家出走，此時卻傳來妹妹意外身亡的噩耗...。忍無可忍的贊恩，持刀為妹妹報仇而犯下罪刑，更在獄中反控父母，讓他誕生在這個不公不義的世界...。
+
+[<img src='../cover_img/capernaum.jpg' height='570px' width='400px' />](https://youtu.be/BQwmepW6Dik)
 
 ---
 ## [煙囪小鎮的普佩 (えんとつ町のプペル, 2020)](https://www.imdb.com/title/tt13276012/)

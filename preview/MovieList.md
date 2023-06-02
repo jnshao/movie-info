@@ -2,6 +2,7 @@
 
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/) -->
 - [一個巨星的誕生 (A Star Is Born, 2018)](#一個巨星的誕生-a-star-is-born-2018)
+- [我想有個家 (Capharnaüm, 2018)](#我想有個家-capharnaüm-2018)
 - [在車上 (Drive My Car, 2021)](#在車上-drive-my-car-2021)
 - [煙囪小鎮的普佩 (えんとつ町のプペル, 2020)](#煙囪小鎮的普佩-えんとつ町のプペル-2020)
 - [媽的多重宇宙 (Everything Everywhere All at Once, 2022)](#媽的多重宇宙-everything-everywhere-all-at-once-2022)
@@ -27,6 +28,13 @@
 有豐富演唱與表演經驗的音樂老手傑克森，他深受酒癮之苦，一晚在一場演唱會後的酒吧，發掘了擁有極佳音樂天賦的藝術家艾利，與她墜入情網，並鼓勵她不要放棄歌手的夢想。然而，當傑克森給予了艾利機會站在鎂光燈下，她的歌聲逐漸受到矚目與喜愛，艾利的崛起卻讓傑克森更陷入低潮，傑克森與艾利的戀情逐漸瀕臨破局，私生活也變成了一場惡夢。
 
 [<img src='../cover_img/a_star_is_born.jpg' height='570px' width='400px' />](https://youtu.be/luru4Zf57TE)
+
+---
+## [我想有個家 (Capharnaüm, 2018)](https://www.imdb.com/title/tt8267604/)
+### 片長：2 小時 06 分鐘
+12歲男孩贊恩出生在破敗的貧民窟，父母只生不養，更無力賺錢養家，導致孩子淪為沒有身分證明的黑戶，生活處境雪上加霜。懂事的贊恩幫忙父母照料家中7個小孩，更每天一早上街頭叫賣果汁賺錢，一肩扛起家中經濟重擔。不料父母卻因缺錢走投無路，竟將年僅11歲的妹妹「賣」給商人當作老婆。無力保護妹妹的贊恩難過地離家出走，此時卻傳來妹妹意外身亡的噩耗...。忍無可忍的贊恩，持刀為妹妹報仇而犯下罪刑，更在獄中反控父母，讓他誕生在這個不公不義的世界...。
+
+[<img src='../cover_img/capernaum.jpg' height='570px' width='400px' />](https://youtu.be/BQwmepW6Dik)
 
 ---
 ## [在車上 (Drive My Car, 2021)](https://www.imdb.com/title/tt14039582/)

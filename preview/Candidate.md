@@ -7,7 +7,6 @@
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
-- [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](#超級瑪利歐兄弟電影版-the-super-mario-bros.-movie-2023)
 
 ---
 ## [我想有個家 (Capharnaüm, 2018)](https://www.imdb.com/title/tt8267604/)
@@ -50,13 +49,6 @@
 【大娛樂家】改編自傳奇馬戲團始祖P.T.巴納姆(休傑克曼 飾)，描述他如何從窮困潦倒的無名小卒，搖身一變成為一個能夠將歡樂、感動、勇氣與淚水，這些情感原素全部融入至他的表演中，將希望散播至全世界的玩夢大師
 
 [<img src='../cover_img/the_greatest_showman.jpg' height='570px' width='400px' />](https://youtu.be/sR6-3_5CtTQ)
-
----
-## [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](https://www.imdb.com/title/tt6718170/)
-### 片長：1 小時 32 分鐘
-任天堂暨照明娛樂共同出品一部改編自最受歡迎電玩遊戲《超級瑪利歐兄弟》的全新動畫片《超級瑪利歐兄弟電影版》。
-
-[<img src='../cover_img/the_super_mario_bros.jpg' height='570px' width='400px' />](https://youtu.be/iE-BqYVfA4I)
 
 ---
 

@@ -13,6 +13,7 @@
 - [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)](#刀劍神域劇場版--progressive--陰沉薄暮的詼諧曲-sword-art-online-the-movie--progressive--scherzo-of-deep-night-2022)
 - [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](#劇場版擅長捉弄人的高木同學-劇場版からかい上手の高木さん-2022)
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
+- [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](#超級瑪利歐兄弟電影版-the-super-mario-bros.-movie-2023)
 - [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](#捍衛戰士獨行俠-top-gun-maverick-2022)
 
 ---
@@ -98,6 +99,13 @@
  戰士凡恩在戰爭中敗北，淪為奴隸被囚禁在地下鹽礦，某天晚上，一群神秘的山犬襲擊鹽礦，礦坑裡的人皆一一死去，活下來的只有凡恩與小女孩悠娜，幸運存活下來的兩人，為了逃避追捕而開始逃亡。
 
 [<img src='../cover_img/the_deer_king.jpg' height='570px' width='400px' />](https://youtu.be/3cwXAgXC04Y)
+
+---
+## [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](https://www.imdb.com/title/tt6718170/)
+### 片長：1 小時 32 分鐘
+任天堂暨照明娛樂共同出品一部改編自最受歡迎電玩遊戲《超級瑪利歐兄弟》的全新動畫片《超級瑪利歐兄弟電影版》。
+
+[<img src='../cover_img/the_super_mario_bros.jpg' height='570px' width='400px' />](https://youtu.be/iE-BqYVfA4I)
 
 ---
 ## [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](https://www.imdb.com/title/tt1745960/)

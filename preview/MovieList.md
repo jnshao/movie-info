@@ -20,6 +20,7 @@
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
 - [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](#超級瑪利歐兄弟電影版-the-super-mario-bros.-movie-2023)
+- [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](#通往夏天的隧道，再見的出口-the-tunnel-to-summer-the-exit-of-goodbyes-2022)
 - [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](#捍衛戰士獨行俠-top-gun-maverick-2022)
 
 ---
@@ -154,6 +155,13 @@
 任天堂暨照明娛樂共同出品一部改編自最受歡迎電玩遊戲《超級瑪利歐兄弟》的全新動畫片《超級瑪利歐兄弟電影版》。
 
 [<img src='../cover_img/the_super_mario_bros.jpg' height='570px' width='400px' />](https://youtu.be/iE-BqYVfA4I)
+
+---
+## [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](https://www.imdb.com/title/tt17382524/)
+### 片長：1 小時 23 分鐘
+在某個鄉下城鎮有座擁有許多傳聞、不可思議的隧道「浦島隧道」，聽說一旦進去，就會失去某樣東西，取而代之可以得到任何想要的東西。看似個性捉摸不定，其實是因過去的意外內心懷有傷痛的高中生．塔野薰，與堅定自我的態度，私下則因和自己的人生理想不同而苦惱的轉學生．花城杏子，他們兩人為了調查隧道，並實現各自的願望，而締結了合作關係...
+
+[<img src='../cover_img/the_tunnel_to_summer_the_exit_of_goodbyes.jpg' height='570px' width='400px' />](https://youtu.be/Izh-45jS3DE)
 
 ---
 ## [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](https://www.imdb.com/title/tt1745960/)

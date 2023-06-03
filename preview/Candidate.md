@@ -7,6 +7,7 @@
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
+- [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](#通往夏天的隧道，再見的出口-the-tunnel-to-summer-the-exit-of-goodbyes-2022)
 
 ---
 ## [我想有個家 (Capharnaüm, 2018)](https://www.imdb.com/title/tt8267604/)
@@ -49,6 +50,13 @@
 【大娛樂家】改編自傳奇馬戲團始祖P.T.巴納姆(休傑克曼 飾)，描述他如何從窮困潦倒的無名小卒，搖身一變成為一個能夠將歡樂、感動、勇氣與淚水，這些情感原素全部融入至他的表演中，將希望散播至全世界的玩夢大師
 
 [<img src='../cover_img/the_greatest_showman.jpg' height='570px' width='400px' />](https://youtu.be/sR6-3_5CtTQ)
+
+---
+## [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](https://www.imdb.com/title/tt17382524/)
+### 片長：1 小時 23 分鐘
+在某個鄉下城鎮有座擁有許多傳聞、不可思議的隧道「浦島隧道」，聽說一旦進去，就會失去某樣東西，取而代之可以得到任何想要的東西。看似個性捉摸不定，其實是因過去的意外內心懷有傷痛的高中生．塔野薰，與堅定自我的態度，私下則因和自己的人生理想不同而苦惱的轉學生．花城杏子，他們兩人為了調查隧道，並實現各自的願望，而締結了合作關係...
+
+[<img src='../cover_img/the_tunnel_to_summer_the_exit_of_goodbyes.jpg' height='570px' width='400px' />](https://youtu.be/Izh-45jS3DE)
 
 ---
 

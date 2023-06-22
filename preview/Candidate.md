@@ -1,6 +1,7 @@
 # 待看清單
 
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/&listType=candidate) -->
+- [阿凡達：水之道 (Avatar: The Way of Water, 2022)](#阿凡達水之道-avatar-the-way-of-water-2022)
 - [我想有個家 (Capharnaüm, 2018)](#我想有個家-capharnaüm-2018)
 - [煙囪小鎮的普佩 (えんとつ町のプペル, 2020)](#煙囪小鎮的普佩-えんとつ町のプペル-2020)
 - [我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)](#我想吃掉你的胰臟-君の膵臓をたべたい-動畫電影版-2018)
@@ -8,6 +9,13 @@
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
 - [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](#通往夏天的隧道，再見的出口-the-tunnel-to-summer-the-exit-of-goodbyes-2022)
+
+---
+## [阿凡達：水之道 (Avatar: The Way of Water, 2022)](https://www.imdb.com/title/tt1630029/)
+### 片長：3 小時 12 分鐘
+《阿凡達：水之道》設於首集超過十年後，成為納美人並與奈蒂莉共結連理的傑克，在潘朵拉星上與他們的孩子組成蘇里一家，過著與世無爭的幸福生活，未料威脅再度降臨，他們不遺餘力保護彼此，為了生存再度奮戰，還得承受隨之而來的悲痛創傷。
+
+[<img src='../cover_img/avatar_the_way_of_water.jpg' height='570px' width='400px' />](https://youtu.be/T-8MtZ2kY98)
 
 ---
 ## [我想有個家 (Capharnaüm, 2018)](https://www.imdb.com/title/tt8267604/)

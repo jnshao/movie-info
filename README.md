@@ -2,6 +2,7 @@
 ## [全部電影清單](preview/MovieList.md)
 <!-- AUTO-PREVIEW:START (PRINTLIST:path=./movie_info/) -->
  - 一個巨星的誕生 (A Star Is Born, 2018)
+ - 阿凡達：水之道 (Avatar: The Way of Water, 2022)
  - 我想有個家 (Capharnaüm, 2018)
  - 在車上 (Drive My Car, 2021)
  - 煙囪小鎮的普佩 (えんとつ町のプペル, 2020)
@@ -26,6 +27,7 @@
 <!-- AUTO-PREVIEW:END *-->
 ## [待看清單](preview/Candidate.md)
 <!-- AUTO-PREVIEW:START (PRINTLIST:path=./movie_info/&listType=candidate) -->
+ - 阿凡達：水之道 (Avatar: The Way of Water, 2022)
  - 我想有個家 (Capharnaüm, 2018)
  - 煙囪小鎮的普佩 (えんとつ町のプペル, 2020)
  - 我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)

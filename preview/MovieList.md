@@ -2,6 +2,7 @@
 
 <!-- AUTO-PREVIEW:START (RENDERPREVIEW:path=./movie_info/) -->
 - [一個巨星的誕生 (A Star Is Born, 2018)](#一個巨星的誕生-a-star-is-born-2018)
+- [阿凡達：水之道 (Avatar: The Way of Water, 2022)](#阿凡達水之道-avatar-the-way-of-water-2022)
 - [我想有個家 (Capharnaüm, 2018)](#我想有個家-capharnaüm-2018)
 - [在車上 (Drive My Car, 2021)](#在車上-drive-my-car-2021)
 - [煙囪小鎮的普佩 (えんとつ町のプペル, 2020)](#煙囪小鎮的普佩-えんとつ町のプペル-2020)
@@ -29,6 +30,13 @@
 有豐富演唱與表演經驗的音樂老手傑克森，他深受酒癮之苦，一晚在一場演唱會後的酒吧，發掘了擁有極佳音樂天賦的藝術家艾利，與她墜入情網，並鼓勵她不要放棄歌手的夢想。然而，當傑克森給予了艾利機會站在鎂光燈下，她的歌聲逐漸受到矚目與喜愛，艾利的崛起卻讓傑克森更陷入低潮，傑克森與艾利的戀情逐漸瀕臨破局，私生活也變成了一場惡夢。
 
 [<img src='../cover_img/a_star_is_born.jpg' height='570px' width='400px' />](https://youtu.be/luru4Zf57TE)
+
+---
+## [阿凡達：水之道 (Avatar: The Way of Water, 2022)](https://www.imdb.com/title/tt1630029/)
+### 片長：3 小時 12 分鐘
+《阿凡達：水之道》設於首集超過十年後，成為納美人並與奈蒂莉共結連理的傑克，在潘朵拉星上與他們的孩子組成蘇里一家，過著與世無爭的幸福生活，未料威脅再度降臨，他們不遺餘力保護彼此，為了生存再度奮戰，還得承受隨之而來的悲痛創傷。
+
+[<img src='../cover_img/avatar_the_way_of_water.jpg' height='570px' width='400px' />](https://youtu.be/T-8MtZ2kY98)
 
 ---
 ## [我想有個家 (Capharnaüm, 2018)](https://www.imdb.com/title/tt8267604/)

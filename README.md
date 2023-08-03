@@ -20,6 +20,7 @@
  - 劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)
  - 鹿王 (The Deer King, 2021)
  - 大娛樂家 (The Greatest Showman, 2017)
+ - 郵報：密戰 (The Post, 2017)
  - 超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)
  - 通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)
  - 捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)
@@ -34,6 +35,7 @@
  - 喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)
  - 普羅米亞 (Promare, 2019)
  - 大娛樂家 (The Greatest Showman, 2017)
+ - 郵報：密戰 (The Post, 2017)
  - 通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)
 
 <!-- AUTO-PREVIEW:END *-->

@@ -8,6 +8,7 @@
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
+- [郵報：密戰 (The Post, 2017)](#郵報密戰-the-post-2017)
 - [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](#通往夏天的隧道，再見的出口-the-tunnel-to-summer-the-exit-of-goodbyes-2022)
 
 ---
@@ -58,6 +59,13 @@
 【大娛樂家】改編自傳奇馬戲團始祖P.T.巴納姆(休傑克曼 飾)，描述他如何從窮困潦倒的無名小卒，搖身一變成為一個能夠將歡樂、感動、勇氣與淚水，這些情感原素全部融入至他的表演中，將希望散播至全世界的玩夢大師
 
 [<img src='../cover_img/the_greatest_showman.jpg' height='570px' width='400px' />](https://youtu.be/sR6-3_5CtTQ)
+
+---
+## [郵報：密戰 (The Post, 2017)](https://www.imdb.com/title/tt6294822/)
+### 片長：1 小時 56 分鐘
+描述《華盛頓郵報》的凱瑟琳葛蘭姆，也是美國第一位女性報紙發行人，以及報社編輯班布萊德利攜手合作，他們必須使出全力和時間賽跑，趕在《紐約時報》之前揭露一件歷經四屆美國總統任期、長達三十餘年的龐大掩蓋事件。
+
+[<img src='../cover_img/the_post.jpg' height='570px' width='400px' />](https://youtu.be/32tBwOz10f0)
 
 ---
 ## [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](https://www.imdb.com/title/tt17382524/)

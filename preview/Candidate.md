@@ -7,6 +7,7 @@
 - [我想吃掉你的胰臟 (君の膵臓をたべたい, 動畫電影版, 2018)](#我想吃掉你的胰臟-君の膵臓をたべたい-動畫電影版-2018)
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
+- [鈴芽之旅 (Suzume no Tojimari, 2022)](#鈴芽之旅-suzume-no-tojimari-2022)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
 - [郵報：密戰 (The Post, 2017)](#郵報密戰-the-post-2017)
 - [通往夏天的隧道，再見的出口 (The Tunnel to Summer, the Exit of Goodbyes, 2022)](#通往夏天的隧道，再見的出口-the-tunnel-to-summer-the-exit-of-goodbyes-2022)
@@ -52,6 +53,13 @@
 因突變而產生能操控火焰的人種「燃燒者」，讓半個世界被大火燒成焦土，陷入前所未見的慘況，在那之後過了30年，當中一群激進份子「瘋狂燃燒者」再次對世界發動攻擊，為了鎮壓「瘋狂燃燒者」引發的火災，普羅米波利斯自治共和國司政官古雷，組織了針對「燃燒者」而設置的高機動救命消防隊「烈焰救火隊」。效命於「烈焰救火隊」，並擁有滅火之魂的消防隊新人加洛，碰上了被通緝中的縱火恐怖份子、也是「瘋狂燃燒者」首領里歐，兩人發生了激烈的衝突，當兩個熾熱靈魂彼此衝撞，這場對決將迎向什麼結局？
 
 [<img src='../cover_img/promare.jpg' height='570px' width='400px' />](https://youtu.be/jIlaDVkvQc0)
+
+---
+## [鈴芽之旅 (Suzume no Tojimari, 2022)](https://www.imdb.com/title/tt16428256/)
+### 片長：2 小時 02 分鐘
+17歲少女鈴芽，在上學途中遇見了一名尋找神秘之門的神秘青年草太，因好奇心而尾隨他，卻意外關閉一扇老舊之門，進而讓日本各地出現無數的門，若沒有及時關上，將會導致災厄現世，為了拯救世界，鈴芽踏上了關門之旅。
+
+[<img src='../cover_img/suzume_no_tojimari.jpg' height='570px' width='400px' />](https://youtu.be/cHI_O_kjmjk)
 
 ---
 ## [大娛樂家 (The Greatest Showman, 2017)](https://www.imdb.com/title/tt1485796/)

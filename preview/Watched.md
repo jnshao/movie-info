@@ -12,6 +12,7 @@
 - [龍與雀斑公主 (竜とそばかすの姫, 2021)](#龍與雀斑公主-竜とそばかすの姫-2021)
 - [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)](#刀劍神域劇場版--progressive--陰沉薄暮的詼諧曲-sword-art-online-the-movie--progressive--scherzo-of-deep-night-2022)
 - [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](#劇場版擅長捉弄人的高木同學-劇場版からかい上手の高木さん-2022)
+- [中文 (English, Year)](#中文-english-year)
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
 - [超級瑪利歐兄弟電影版 (The Super Mario Bros. Movie, 2023)](#超級瑪利歐兄弟電影版-the-super-mario-bros.-movie-2023)
 - [捍衛戰士：獨行俠 (Top Gun: Maverick, 2022)](#捍衛戰士獨行俠-top-gun-maverick-2022)
@@ -92,6 +93,13 @@
 升上中學的少年西片，與和他同班、常對他捉弄嬉戲的少女高木，心裡開始對往後的未來充滿著期待與不安。在中學最後一次暑假的前一天裡，他們在神社裡看到一隻名叫小花 (ハナ) 的小貓。因為找不到母貓的身影，西片和高木兩人展開了一段一起照顧小貓的暑假時光。
 
 [<img src='../cover_img/teasing_master_takagi_san.jpg' height='570px' width='400px' />](https://youtu.be/pAq9zdmKSm4)
+
+---
+## [中文 (English, Year)](https://www.imdb.com/title/id/)
+### 片長：1 小時 30 分鐘
+
+
+[<img src='../cover_img/cover.jpg' height='570px' width='400px' />]()
 
 ---
 ## [鹿王 (The Deer King, 2021)](https://www.imdb.com/title/tt11417856/)

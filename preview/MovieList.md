@@ -17,7 +17,9 @@
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
 - [龍與雀斑公主 (竜とそばかすの姫, 2021)](#龍與雀斑公主-竜とそばかすの姫-2021)
 - [刀劍神域劇場版 -Progressive- 陰沉薄暮的詼諧曲 (Sword Art Online the Movie -Progressive- Scherzo of Deep Night, 2022)](#刀劍神域劇場版--progressive--陰沉薄暮的詼諧曲-sword-art-online-the-movie--progressive--scherzo-of-deep-night-2022)
+- [鈴芽之旅 (Suzume no Tojimari, 2022)](#鈴芽之旅-suzume-no-tojimari-2022)
 - [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](#劇場版擅長捉弄人的高木同學-劇場版からかい上手の高木さん-2022)
+- [中文 (English, Year)](#中文-english-year)
 - [鹿王 (The Deer King, 2021)](#鹿王-the-deer-king-2021)
 - [大娛樂家 (The Greatest Showman, 2017)](#大娛樂家-the-greatest-showman-2017)
 - [郵報：密戰 (The Post, 2017)](#郵報密戰-the-post-2017)
@@ -138,11 +140,25 @@
 [<img src='../cover_img/sao_progress_kuraki_yuuyami_no_scherzo.jpg' height='570px' width='400px' />](https://youtu.be/GPBrslQRF1g)
 
 ---
+## [鈴芽之旅 (Suzume no Tojimari, 2022)](https://www.imdb.com/title/tt16428256/)
+### 片長：2 小時 02 分鐘
+17歲少女鈴芽，在上學途中遇見了一名尋找神秘之門的神秘青年草太，因好奇心而尾隨他，卻意外關閉一扇老舊之門，進而讓日本各地出現無數的門，若沒有及時關上，將會導致災厄現世，為了拯救世界，鈴芽踏上了關門之旅。
+
+[<img src='../cover_img/suzume_no_tojimari.jpg' height='570px' width='400px' />](https://youtu.be/cHI_O_kjmjk)
+
+---
 ## [劇場版擅長捉弄人的高木同學 (劇場版からかい上手の高木さん, 2022)](https://www.imdb.com/title/tt15313532/)
 ### 片長：1 小時 13 分鐘
 升上中學的少年西片，與和他同班、常對他捉弄嬉戲的少女高木，心裡開始對往後的未來充滿著期待與不安。在中學最後一次暑假的前一天裡，他們在神社裡看到一隻名叫小花 (ハナ) 的小貓。因為找不到母貓的身影，西片和高木兩人展開了一段一起照顧小貓的暑假時光。
 
 [<img src='../cover_img/teasing_master_takagi_san.jpg' height='570px' width='400px' />](https://youtu.be/pAq9zdmKSm4)
+
+---
+## [中文 (English, Year)](https://www.imdb.com/title/id/)
+### 片長：1 小時 30 分鐘
+
+
+[<img src='../cover_img/cover.jpg' height='570px' width='400px' />]()
 
 ---
 ## [鹿王 (The Deer King, 2021)](https://www.imdb.com/title/tt11417856/)

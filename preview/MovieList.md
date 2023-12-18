@@ -12,6 +12,7 @@
 - [小丑 (Joker, 2019)](#小丑-joker-2019)
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [咒術迴戰 0 (Jujutsu Kaisen 0, 2021)](#咒術迴戰-0-jujutsu-kaisen-0-2021)
+- [花月殺手 (Killers of the Flower Moon, 2023)](#花月殺手-killers-of-the-flower-moon-2023)
 - [波斯語課 (Persian Lessons, 2020)](#波斯語課-persian-lessons-2020)
 - [酷愛電影的龐波小姐 (映画大好きポンポさん, 2021)](#酷愛電影的龐波小姐-映画大好きポンポさん-2021)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
@@ -103,6 +104,13 @@
 自幼感情極好的乙骨憂太與祈本里香約好長大後要結婚，卻不料里香因死亡車禍化為強大怨靈依附在憂太身邊，為此所苦的憂太一心求死，之後在五條悟的帶領下進入咒術高專結識了新同學：禪院真希、狗卷棘與熊貓，他決定在這裡找到活下去的自信並解除里香的詛咒。意欲奪取里香強大怨靈力量的夏油傑宣布在 12 月 24 日舉行「百鬼夜行」，在新宿與京都釋出上千個詛咒。面臨如此重大浩劫，憂太能否阻止夏油的野心並解開里香的詛咒？
 
 [<img src='../cover_img/jujutsu_kaisen_0.jpg' height='570px' width='400px' />](https://youtu.be/s-ei5fmFG0w)
+
+---
+## [花月殺手 (Killers of the Flower Moon, 2023)](https://www.imdb.com/title/tt5537002/)
+### 片長：3 小時 26 分鐘
+敘述19、20世紀之交，石油為北美原住民奧塞奇族帶來了鉅額財富，然而，一夕暴富卻立即引來了白人入侵者的覬覦，他們先是無所不用其極地操縱、勒索奧塞奇人並竊取其資產，最後甚至謀財害命。
+
+[<img src='../cover_img/killers_of_the_flower_moon.jpg' height='570px' width='400px' />](https://youtu.be/VM_biI95EDA)
 
 ---
 ## [波斯語課 (Persian Lessons, 2020)](https://www.imdb.com/title/tt9738784/)

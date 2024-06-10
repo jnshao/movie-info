@@ -13,6 +13,7 @@
 - [喬瑟與虎與魚群 (ジョゼと虎と魚たち, 2020)](#喬瑟與虎與魚群-ジョゼと虎と魚たち-2020)
 - [咒術迴戰 0 (Jujutsu Kaisen 0, 2021)](#咒術迴戰-0-jujutsu-kaisen-0-2021)
 - [花月殺手 (Killers of the Flower Moon, 2023)](#花月殺手-killers-of-the-flower-moon-2023)
+- [機動戰士鋼彈SEED FREEDOM (Mobile Suit Gundam Seed Freedom, 2024)](#機動戰士鋼彈seed-freedom-mobile-suit-gundam-seed-freedom-2024)
 - [波斯語課 (Persian Lessons, 2020)](#波斯語課-persian-lessons-2020)
 - [酷愛電影的龐波小姐 (映画大好きポンポさん, 2021)](#酷愛電影的龐波小姐-映画大好きポンポさん-2021)
 - [普羅米亞 (Promare, 2019)](#普羅米亞-promare-2019)
@@ -111,6 +112,13 @@
 敘述19、20世紀之交，石油為北美原住民奧塞奇族帶來了鉅額財富，然而，一夕暴富卻立即引來了白人入侵者的覬覦，他們先是無所不用其極地操縱、勒索奧塞奇人並竊取其資產，最後甚至謀財害命。
 
 [<img src='../cover_img/killers_of_the_flower_moon.jpg' height='570px' width='400px' />](https://youtu.be/VM_biI95EDA)
+
+---
+## [機動戰士鋼彈SEED FREEDOM (Mobile Suit Gundam Seed Freedom, 2024)](https://www.imdb.com/title/tt14759062/)
+### 片長：2 小時 04 分鐘
+延續「自然人」與「調整者」之間的矛盾與衝突，時間來到C.E.（宇宙紀元）75年，儘管自然人與調整者雙方都付出龐大犧牲，戰事仍未能停歇，各地接連爆發獨立運動與「藍色宇宙」策畫的侵略行動等等事件，紛亂不止。為了平息紛爭，拉克絲為首任總裁的世界和平監視機構「羅盤」就此創立，煌等人作為組織成員主動介入各地的戰爭，就在此時，新興國家「基金國」提倡以聯合作戰的形式進攻藍色宇宙總部，這場戰事是否能為宇宙和平重新帶來希望？
+
+[<img src='../cover_img/mobile_suit_gundam_seed_freedom.jpg' height='570px' width='400px' />](https://youtu.be/Nyb-08BNlqo)
 
 ---
 ## [波斯語課 (Persian Lessons, 2020)](https://www.imdb.com/title/tt9738784/)
